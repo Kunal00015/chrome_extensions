@@ -45,3 +45,17 @@ li {
 a {
     color: #5f9341;
 }
+
+button:hover{
+    background-color:#40652b ;
+    cursor: pointer;
+}
+
+#delete-btn:hover{
+    background-color:rgb(234, 224, 224) ;
+    cursor: pointer;
+}
+#del-btn:hover{
+    background-color:rgb(234, 224, 224) ;
+    cursor: pointer;
+}
